@@ -1,7 +1,3 @@
-Based on the Power BI dashboard image provided, here is a comprehensive breakdown structured as a professional project proposal or case study.
-
----
-
 ### 1. Project Overview
 **Project Title:** Airline Operations Profit & Revenue Analysis Dashboard
 **Description:** This dashboard provides a comprehensive visualization of an airline's operational performance. It focuses on analyzing financial metrics (Profit and Revenue) and operational logistics (Quantity and Pricing) across various geographical locations (Cities and States) and product/service sub-categories (Type1, Type2, Type3). The dashboard is designed to give stakeholders a quick, high-level view of financial health while allowing them to drill down into category-specific performance.
